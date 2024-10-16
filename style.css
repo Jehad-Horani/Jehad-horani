@@ -1,0 +1,21 @@
+img {
+    border: 2px solid rgb(5, 3, 3);
+  }
+  body{
+    text-align: center;
+    background-color: blanchedalmond;
+  }
+  h1 {
+    background-color: blanchedalmond;
+    color: rgb(2, 2, 24);
+  }
+  
+  h2 {
+    background-color: bisque;
+    color: rgb(113, 29, 29);
+  }
+  
+  .divider {
+    margin: 4px;
+  }
+ 
